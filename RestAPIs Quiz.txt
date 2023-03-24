@@ -1,0 +1,13 @@
+1. What is a RESTful API?
+RESTfulAPI is web service that uses HTTP protocol to perform CRUD operations on resources.
+2. What are the benefits of using RESTful APIs?
+Scalability, Platform independence, Flexibility, Improved performance, Simplified development, and Security measures.
+3. What are the HTTP methods used in RESTful API?
+GET used to retrieve a resource or a collection of resources.
+POST used to create a new resource.
+PUT used to update an existing resource or create a new resource if it doesn't exist.
+DELETE used to delete a resource.
+PATCH used to update a portion of a resource.
+HEAD similar to GET, but it only retrieves the headers of a resource.
+OPTIONS used to retrieve the supported HTTP methods and other options for a resource.
+there is 5 common method those are GET, POST, PUT, DELETE, PATCH.
